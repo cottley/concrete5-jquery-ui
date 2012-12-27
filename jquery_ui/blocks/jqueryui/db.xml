@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+	<table name="btJqueryui">
+		<field name="bID" type="I">
+			<key />
+			<unsigned />
+		</field>
+		<field name="theme" type="C" size="255" ></field>
+		<field name="includespecificjquery" type="C" size="5" ></field>
+    <field name="jscontent" type="X2"> </field>
+	</table>
+</schema>
